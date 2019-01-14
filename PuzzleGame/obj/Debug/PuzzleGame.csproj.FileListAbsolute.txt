@@ -1,0 +1,18 @@
+C:\Users\vasilevi\Desktop\Puzzle Game\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\vasilevi\Desktop\Puzzle Game\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\vasilevi\Desktop\Puzzle Game\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\vasilevi\Desktop\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojResolveAssemblyReference.cache
+C:\Users\vasilevi\Desktop\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\vasilevi\Desktop\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.Cache
+C:\Users\vasilevi\Desktop\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\vasilevi\Desktop\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\vasilevi\Desktop\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.PuzzleGame.resources
+C:\Users\vasilevi\Desktop\C# Apps\Puzzle Game\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\vasilevi\Desktop\C# Apps\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\vasilevi\Desktop\C# Apps\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+C:\Users\vasilevi\Desktop\C# Apps\Puzzle Game\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\vasilevi\Desktop\C# Apps\Puzzle Game\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\vasilevi\Desktop\C# Apps\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojResolveAssemblyReference.cache
+C:\Users\vasilevi\Desktop\C# Apps\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.PuzzleGame.resources
+C:\Users\vasilevi\Desktop\C# Apps\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\vasilevi\Desktop\C# Apps\Puzzle Game\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.Cache
